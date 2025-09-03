@@ -7,7 +7,6 @@
   "path_to_articles_file": "articles.jsonl",
   "path_to_summaries_files": {
     "references": "references.jsonl",
-    "model_1": "model_1.jsonl",
-    "model_2": "model_2.jsonl"
+    "model_1": "model-details.jsonl"
   }
 }
