@@ -4,3 +4,4 @@ __pycache__/
 /ui/SumViz/settings.py
 data_cg/
 data/
+ui/.venv-ui/*
