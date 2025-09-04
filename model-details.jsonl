@@ -1,3 +1,2 @@
-{"name": "rag_1", "title": "RAG sys 1", "abstract": "TBD", "human evaluation": "TBD", "url": ""}
-// {"name": "model_2", "title": "model_2 title", "abstract": "TBD", "human evaluation": "TBD", "url": ""} 
-{"name": "references", "title": "References for RAG (gold summaries)-> what are those?", "abstract": "TBD", "human evaluation": "TBD", "url": ""}
+{"name":"rag_1","title":"RAG sys 1","abstract":"TBD","human evaluation":"TBD","url":""}
+{"name":"references","title":"References (gold summaries)","abstract":"TBD","human evaluation":"TBD","url":""}
