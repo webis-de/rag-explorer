@@ -4,9 +4,9 @@
     "description": "DATASET \n N Articles \n M Models"
   },
   "path_to_models_details_file": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/model-details.jsonl",
-  "path_to_articles_file": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/nlp-processed/articles.jsonl",
+  "path_to_articles_file": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/automatic-metrics/articles.jsonl",
   "path_to_summaries_files": {
-    "references": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/nlp-processed/references.jsonl",
-    "model_1": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/nlp-processed/rag_1.jsonl"
+    "references": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/document-overlap-metrics/references.jsonl",
+    "model_1": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/document-overlap-metrics/rag_1.jsonl"
   }
 }
