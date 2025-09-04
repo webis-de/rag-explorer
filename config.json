@@ -7,6 +7,6 @@
   "path_to_articles_file": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/automatic-metrics/articles.jsonl",
   "path_to_summaries_files": {
     "references": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/document-overlap-metrics/references.jsonl",
-    "model_1": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/document-overlap-metrics/rag_1.jsonl"
+    "rag_1": "/home/simon-ruth/Documents/tasks/RAG_evaluator/rag-explorer/text-processing/data/document-overlap-metrics/rag_1.jsonl"
   }
 }
